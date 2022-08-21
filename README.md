@@ -1,4 +1,4 @@
-# Patika Protein Bootcamp Bitirme Projesi
+# Patika Protein .Net Bootcamp Bitirme Projesi
 
 ### Projede Kullanılan Nuget Kütüphaneleri
 ORM Kütüphanesi olarak **Dapper**
