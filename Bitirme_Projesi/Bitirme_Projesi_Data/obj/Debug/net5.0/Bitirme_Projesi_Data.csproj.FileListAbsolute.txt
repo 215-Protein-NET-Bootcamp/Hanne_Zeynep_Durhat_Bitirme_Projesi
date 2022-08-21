@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Data.deps.json
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Data.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\ref\Bitirme_Projesi_Data.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Data.pdb
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\ref\Bitirme_Projesi_Data.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.pdb
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Base.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Base.pdb
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\obj\Debug\net5.0\Bitirme_Projesi_Data.csproj.CopyComplete
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Dto.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Data\bin\Debug\net5.0\Bitirme_Projesi_Dto.pdb

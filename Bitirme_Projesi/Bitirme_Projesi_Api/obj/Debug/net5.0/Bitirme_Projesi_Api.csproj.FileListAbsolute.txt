@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\bin\Debug\net5.0\Bitirme_Projesi_Api.deps.json
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\bin\Debug\net5.0\Bitirme_Projesi_Api.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\bin\Debug\net5.0\ref\Bitirme_Projesi_Api.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\bin\Debug\net5.0\Bitirme_Projesi_Api.pdb
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.AssemblyInfo.cs
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\ref\Bitirme_Projesi_Api.dll
+C:\Users\User\source\repos\Bitirme_Projesi\Bitirme_Projesi_Api\obj\Debug\net5.0\Bitirme_Projesi_Api.pdb
